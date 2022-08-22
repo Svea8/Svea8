@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Svea8
 - 👀 I’m interested in anime and dogs
 - 🌱 I’m currently learning Web Developement stuff
-- 💞️ I’m looking to collaborate on something
 
 <!---
 Svea8/Svea8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
